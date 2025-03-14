@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "midterm-exam-solution",
+  "version": "1.0.0",
+  "main": "question2.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRT1223/Midterm-Exam-Solution.git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRT1223/Midterm-Exam-Solution.git/issues"
+  },
+  "homepage": "https://github.com/CRT1223/Midterm-Exam-Solution.git#readme",
+  "description": ""
+}
