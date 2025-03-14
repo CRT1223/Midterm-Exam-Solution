@@ -21,6 +21,7 @@ const users = await User.findAll();
 res.json(users);
 });
 
+
 // Sync database and start server
 sequelize.sync().then(() => {
 app.listen(3000, () => console.log('Server running on port 3000'));
